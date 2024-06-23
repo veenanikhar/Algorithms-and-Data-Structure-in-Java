@@ -6,8 +6,5 @@ This repository contains links to all my data structure projects. Each repositor
 
 ## Repositories
 
-1.**Class and Object**
-   - [Class and Object Implementations](https://github.com/veenanikhar/Page-Turner-Tracker.git)
-
-2.**Map**
+1.**Map**
    - [Hash Map Implementations](https://github.com/veenanikhar/Page-Turner-Tracker.git)
